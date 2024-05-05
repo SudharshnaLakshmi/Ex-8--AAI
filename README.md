@@ -55,3 +55,4 @@ for line in text.splitlines():
 
 
 <H3> Result:</H3>
+Thus the implementation of the conversion of live speech to text is done successfully.
